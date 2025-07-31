@@ -24,7 +24,7 @@
 | Full Name						 | CONTACT         |
 |-----------------|-----------------|
 | **Andy Yao**    | 77810419@qq.com |
-| **XXX**         | XXX@XXX.com     |
+| **XXX**         | example@example.localhost     |
 
 ## 🔒 Background
 - The IPs in the attacker list have been involved in network attacks such as XXX and XXX to OAMLab in the past.
