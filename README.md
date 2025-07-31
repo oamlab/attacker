@@ -26,7 +26,7 @@
 | 姓名						 | 联系方式            |
 |----------|-----------------|
 | **姚国贵**  | 77810419@qq.com |
-| **XXX**  | XXX@XXX.com     |
+| **XXX**  | example@example.localhost     |
 
 ## 🔒 背景
 - 攻击者清单中的IP，在过去的时间内对OAMLab有XXX、XXX等特征的网络攻击行为。
